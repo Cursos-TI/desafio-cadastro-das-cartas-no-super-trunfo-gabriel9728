@@ -1,6 +1,9 @@
 #include <stdio.h>
 
-int main() {
-    printf ("Desafio Super Trunfo!\n");
-    printf ("novo commit\n");
-}
+
+   int main () {
+    int populacao;
+    float area;
+    float pib;
+    int pontosTuristicos; 
+}Cidade;
